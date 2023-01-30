@@ -73,7 +73,7 @@
 
 // function getFetch(city, days) {
 // 	return fetch(
-// 		`http://api.weatherapi.com/v1/forecast.json?key=86378e0ee6c34cc8825184832232801&q=${city}&days=${days}`,
+// 		`http://api.weatherapi.com/v1/forecast.json?key=c8c100aeddf9432c80e204818233001&q=${city}&days=${days}`,
 // 	).then(res => {
 // 		if (!res.ok) {
 // 			throw new Error(res.statusText);
